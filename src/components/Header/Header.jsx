@@ -1,5 +1,5 @@
 import Banner from '../Banner/Banner';
-import Products from '../Products/Products';
+import Gadgets from '../Gadgets/Gadgets';
 
 const Header = ({children}) => {
     return (
@@ -7,8 +7,8 @@ const Header = ({children}) => {
             {/* banner section */}
             <Banner children={children}></Banner>
 
-            {/* products section */}
-            <Products></Products>
+            {/* gadgets section */}
+            <Gadgets></Gadgets>
         </div>
     );
 };
