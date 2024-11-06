@@ -9,7 +9,7 @@ const Home = () => {
     const isHomePage = (location.pathname === '/');
 
     return (
-        <div className="text-black_color font_sora">
+        <div className="text-black_color font_sora bg-gray-100">
             {/* header section */}
             {
                 isHomePage ?
