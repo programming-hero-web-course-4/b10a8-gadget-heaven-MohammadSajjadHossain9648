@@ -15,6 +15,7 @@ export default {
         Shade_black_color_1: 'rgba(11, 11, 11, 0.7)',
         Shade_black_color_2: 'rgba(11, 11, 11, 0.1)',
         black_bg_color: 'rgba(11, 11, 11, 0.15)',
+        shade_black_bg_color: 'rgba(17, 0, 0, 0.03)',
 
         favicon_color: 'rgb(58, 58, 58)',
 
